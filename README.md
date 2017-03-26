@@ -1,5 +1,9 @@
 # Phaser Typescript Boilerplate
 
+
+![Logo][logo-image]
+
+
 This is **Phaser** template for building games using **TypeScript** + **Webpack**.
 
 
@@ -64,6 +68,7 @@ or open cloned directory in your favorite editor
 [MIT][license-url]
 
 
+[logo-image]: README/logo.png
 [license-url]: LICENSE
 [travis-image]: https://img.shields.io/travis/SuperPaintman/phaser-typescript-boilerplate/master.svg?label=linux
 [travis-url]: https://travis-ci.org/SuperPaintman/phaser-typescript-boilerplate

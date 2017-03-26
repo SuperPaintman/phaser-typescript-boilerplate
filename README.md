@@ -1,5 +1,44 @@
 # Phaser Typescript Boilerplate
 
+This is **Phaser** template for building games using **TypeScript** + **Webpack**.
+
+
+--------------------------------------------------------------------------------
+
+## Usage
+
+**1**: clone this repo:
+
+```sh
+git clone https://github.com/SuperPaintman/phaser-typescript-boilerplate.git
+```
+
+**2**: install NPM dependencies:
+
+```sh
+npm i
+
+# or with yarn
+npm i -g yarn
+yarn
+npm rebuild
+```
+
+**3**: run `Webpack Dev Server` (will start on <http://127.0.0.1:8080>):
+
+```sh
+npm start
+```
+
+**4**: start creating!
+
+```sh
+vim .
+```
+
+or open cloned directory in your favorite editor
+
+
 --------------------------------------------------------------------------------
 
 ## Contributing
